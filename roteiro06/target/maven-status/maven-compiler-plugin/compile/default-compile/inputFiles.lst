@@ -1,0 +1,16 @@
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/LinkedList.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/stack/Stack.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/stack/StackDoubleLinkedListImpl.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/DoubleLinkedList.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/RecursiveSingleLinkedListImpl.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/queue/Queue.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/DoubleLinkedListImpl.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/queue/QueueDoubleLinkedListImpl.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/stack/StackUnderflowException.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/DoubleLinkedListNode.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/RecursiveDoubleLinkedListImpl.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/SingleLinkedListImpl.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/linkedList/SingleLinkedListNode.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/queue/QueueUnderflowException.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/queue/QueueOverflowException.java
+/mnt/c/prog/LEDA/roteiro06/src/main/java/adt/stack/StackOverflowException.java

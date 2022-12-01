@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-20T23:14:01.922-0300</date>
+  <logger>ITALO MATHEUS DE ARAUJO RAMALHO</logger>
+  <level>FINE</level>
+  <message>File 121110612-ITALO MATHEUS DE ARAUJO RAMALHO.zip was received. It was sent by ITALO MATHEUS DE ARAUJO RAMALHO from IP 172.17.224.1 at 20-06-2022 23*14*01</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-20T23:35:30.174-0300</date>
+  <logger>ITALO MATHEUS DE ARAUJO RAMALHO</logger>
+  <level>FINE</level>
+  <message>File 121110612-ITALO MATHEUS DE ARAUJO RAMALHO.zip was received. It was sent by ITALO MATHEUS DE ARAUJO RAMALHO from IP 172.17.235.144 at 20-06-2022 23*35*30</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-20T23:55:54.640-0300</date>
+  <logger>ITALO MATHEUS DE ARAUJO RAMALHO</logger>
+  <level>FINE</level>
+  <message>File 121110612-ITALO MATHEUS DE ARAUJO RAMALHO.zip was received. It was sent by ITALO MATHEUS DE ARAUJO RAMALHO from IP 172.17.235.144 at 20-06-2022 23*55*54</message>
+</record>

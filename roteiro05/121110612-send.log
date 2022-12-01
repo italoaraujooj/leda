@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-07-11T23:42:44.493-0300</date>
+  <logger>ITALO MATHEUS DE ARAUJO RAMALHO</logger>
+  <level>FINE</level>
+  <message>File 121110612-ITALO MATHEUS DE ARAUJO RAMALHO.zip was received. It was sent by ITALO MATHEUS DE ARAUJO RAMALHO from IP 172.24.62.74 at 11-07-2022 23*42*44</message>
+</record>
